@@ -1,0 +1,1794 @@
+age,bp,cholesterol,sugar,disease
+52,125,212,0,Healthy
+53,140,203,0,Healthy
+70,145,174,0,Healthy
+61,148,203,0,Healthy
+62,138,294,0,Healthy
+58,100,248,0,Heart Disease
+58,114,318,0,Healthy
+55,160,289,0,Healthy
+46,120,249,0,Healthy
+54,122,286,0,Healthy
+71,112,149,0,Heart Disease
+43,132,341,0,Healthy
+34,118,210,0,Heart Disease
+51,140,298,0,Healthy
+52,128,204,0,Healthy
+34,118,210,0,Heart Disease
+51,140,308,0,Heart Disease
+54,124,266,0,Healthy
+50,120,244,0,Heart Disease
+58,140,211,0,Heart Disease
+60,140,185,0,Healthy
+67,106,223,0,Heart Disease
+45,104,208,0,Heart Disease
+63,135,252,0,Heart Disease
+42,120,209,0,Heart Disease
+61,145,307,0,Healthy
+44,130,233,0,Heart Disease
+58,136,319,0,Healthy
+56,130,256,0,Healthy
+55,180,327,0,Healthy
+44,120,169,0,Healthy
+50,120,244,0,Heart Disease
+57,130,131,0,Healthy
+70,160,269,0,Healthy
+50,129,196,0,Heart Disease
+46,150,231,0,Healthy
+51,125,213,0,Heart Disease
+59,138,271,0,Heart Disease
+64,128,263,0,Heart Disease
+57,128,229,0,Healthy
+65,160,360,0,Heart Disease
+54,120,258,0,Heart Disease
+61,130,330,0,Healthy
+46,120,249,0,Healthy
+55,132,342,0,Heart Disease
+42,140,226,0,Heart Disease
+41,135,203,0,Heart Disease
+66,178,228,0,Healthy
+66,146,278,0,Heart Disease
+60,117,230,0,Healthy
+58,150,283,0,Heart Disease
+57,140,241,0,Healthy
+38,138,175,0,Heart Disease
+49,120,188,0,Healthy
+55,140,217,0,Healthy
+55,140,217,0,Healthy
+56,120,193,0,Heart Disease
+48,130,245,0,Heart Disease
+67,152,212,0,Healthy
+57,154,232,0,Healthy
+29,130,204,0,Heart Disease
+66,146,278,0,Heart Disease
+67,100,299,0,Healthy
+59,150,212,0,Heart Disease
+29,130,204,0,Heart Disease
+59,170,288,0,Healthy
+53,130,197,0,Heart Disease
+42,136,315,0,Healthy
+37,120,215,0,Heart Disease
+62,160,164,0,Healthy
+59,170,326,0,Healthy
+61,140,207,0,Healthy
+56,125,249,0,Healthy
+59,140,177,0,Healthy
+48,130,256,0,Healthy
+47,138,257,0,Heart Disease
+48,124,255,0,Heart Disease
+63,140,187,0,Healthy
+52,134,201,0,Heart Disease
+52,134,201,0,Heart Disease
+50,140,233,0,Healthy
+49,118,149,0,Healthy
+46,150,231,0,Healthy
+38,138,175,0,Heart Disease
+37,120,215,0,Heart Disease
+44,120,220,0,Heart Disease
+58,140,211,0,Heart Disease
+59,174,249,0,Healthy
+62,140,268,0,Healthy
+68,144,193,0,Healthy
+54,108,267,0,Heart Disease
+62,124,209,0,Heart Disease
+63,140,187,0,Healthy
+44,120,169,0,Healthy
+62,128,208,0,Heart Disease
+45,138,236,0,Heart Disease
+57,128,303,0,Heart Disease
+53,123,282,0,Healthy
+65,110,248,0,Healthy
+76,140,197,0,Heart Disease
+43,122,213,0,Heart Disease
+57,150,126,0,Heart Disease
+54,108,309,0,Heart Disease
+47,138,257,0,Heart Disease
+52,118,186,0,Heart Disease
+47,110,275,0,Healthy
+51,140,299,0,Healthy
+62,120,281,0,Healthy
+40,152,223,0,Healthy
+54,110,206,0,Healthy
+44,110,197,0,Healthy
+53,142,226,0,Heart Disease
+48,130,256,0,Healthy
+57,110,335,0,Healthy
+59,126,218,0,Healthy
+61,145,307,0,Healthy
+63,130,254,0,Healthy
+43,120,177,0,Healthy
+29,130,204,0,Heart Disease
+42,120,295,0,Heart Disease
+54,108,309,0,Heart Disease
+44,120,169,0,Healthy
+60,145,282,0,Healthy
+65,140,417,0,Heart Disease
+61,120,260,0,Healthy
+60,150,240,0,Heart Disease
+66,120,302,0,Heart Disease
+53,130,197,0,Heart Disease
+52,138,223,0,Heart Disease
+57,140,192,0,Heart Disease
+60,150,240,0,Heart Disease
+51,130,256,0,Heart Disease
+41,135,203,0,Heart Disease
+50,129,196,0,Heart Disease
+54,108,309,0,Heart Disease
+58,170,225,0,Healthy
+55,132,342,0,Heart Disease
+64,180,325,0,Heart Disease
+47,138,257,0,Heart Disease
+41,110,235,0,Heart Disease
+57,152,274,0,Healthy
+63,124,197,0,Healthy
+61,134,234,0,Healthy
+34,118,182,0,Heart Disease
+47,112,204,0,Heart Disease
+40,110,167,0,Healthy
+51,120,295,0,Heart Disease
+41,110,172,0,Healthy
+52,152,298,0,Heart Disease
+39,140,321,0,Heart Disease
+58,114,318,0,Healthy
+54,192,283,0,Healthy
+58,125,300,0,Healthy
+54,120,258,0,Heart Disease
+63,130,330,0,Healthy
+54,108,309,0,Heart Disease
+40,140,199,0,Heart Disease
+54,120,258,0,Heart Disease
+67,115,564,0,Heart Disease
+41,120,157,0,Heart Disease
+77,125,304,0,Healthy
+51,100,222,0,Heart Disease
+77,125,304,0,Healthy
+48,124,274,0,Healthy
+56,125,249,0,Healthy
+59,170,326,0,Healthy
+56,132,184,0,Healthy
+57,120,354,0,Heart Disease
+43,130,315,0,Heart Disease
+45,112,160,0,Heart Disease
+43,150,247,0,Heart Disease
+56,130,283,0,Healthy
+56,120,240,0,Heart Disease
+39,94,199,0,Heart Disease
+54,110,239,0,Healthy
+56,200,288,0,Healthy
+56,130,283,0,Healthy
+64,120,246,0,Healthy
+44,110,197,0,Healthy
+56,134,409,0,Healthy
+63,140,187,0,Healthy
+64,110,211,0,Heart Disease
+60,140,293,0,Healthy
+42,130,180,0,Heart Disease
+45,128,308,0,Heart Disease
+57,165,289,0,Healthy
+40,110,167,0,Healthy
+56,125,249,0,Healthy
+63,130,254,0,Healthy
+64,125,309,0,Healthy
+41,112,250,0,Heart Disease
+56,130,221,0,Heart Disease
+67,115,564,0,Heart Disease
+69,160,234,0,Heart Disease
+67,160,286,0,Healthy
+59,150,212,0,Heart Disease
+58,100,234,0,Healthy
+45,115,260,0,Heart Disease
+60,102,318,0,Heart Disease
+50,144,200,0,Healthy
+62,124,209,0,Heart Disease
+34,118,182,0,Heart Disease
+52,152,298,0,Heart Disease
+64,170,227,0,Heart Disease
+66,146,278,0,Heart Disease
+42,148,244,0,Heart Disease
+59,126,218,0,Healthy
+41,112,250,0,Heart Disease
+38,138,175,0,Heart Disease
+62,120,281,0,Healthy
+42,120,240,0,Heart Disease
+67,100,299,0,Healthy
+50,150,243,0,Healthy
+43,130,315,0,Heart Disease
+45,128,308,0,Heart Disease
+49,130,266,0,Heart Disease
+65,135,254,0,Healthy
+41,120,157,0,Heart Disease
+46,140,311,0,Healthy
+54,122,286,0,Healthy
+57,130,236,0,Healthy
+63,130,254,0,Healthy
+64,110,211,0,Heart Disease
+39,94,199,0,Heart Disease
+51,140,261,0,Heart Disease
+54,150,232,0,Heart Disease
+49,118,149,0,Healthy
+44,118,242,0,Heart Disease
+52,128,205,0,Heart Disease
+66,178,228,0,Healthy
+58,125,300,0,Healthy
+56,120,236,0,Heart Disease
+60,125,258,0,Healthy
+41,126,306,0,Heart Disease
+49,130,269,0,Heart Disease
+64,170,227,0,Heart Disease
+49,118,149,0,Healthy
+57,124,261,0,Healthy
+60,117,230,0,Healthy
+62,150,244,0,Healthy
+54,132,288,0,Heart Disease
+67,152,212,0,Healthy
+38,138,175,0,Heart Disease
+60,140,185,0,Healthy
+51,125,245,0,Heart Disease
+44,130,219,0,Heart Disease
+54,192,283,0,Healthy
+46,140,311,0,Healthy
+39,138,220,0,Heart Disease
+42,130,180,0,Heart Disease
+47,110,275,0,Healthy
+45,112,160,0,Heart Disease
+55,132,353,0,Healthy
+57,165,289,0,Healthy
+35,120,198,0,Healthy
+62,140,394,0,Heart Disease
+35,138,183,0,Heart Disease
+64,180,325,0,Heart Disease
+38,120,231,0,Healthy
+66,120,302,0,Heart Disease
+44,120,226,0,Heart Disease
+54,150,232,0,Heart Disease
+48,122,222,0,Heart Disease
+55,132,342,0,Heart Disease
+58,170,225,0,Healthy
+45,104,208,0,Heart Disease
+53,123,282,0,Healthy
+67,120,237,0,Healthy
+58,132,224,0,Healthy
+71,110,265,0,Heart Disease
+43,110,211,0,Heart Disease
+44,120,263,0,Heart Disease
+39,138,220,0,Heart Disease
+54,110,206,0,Healthy
+66,160,228,0,Heart Disease
+56,130,283,0,Healthy
+57,132,207,0,Heart Disease
+44,130,219,0,Heart Disease
+55,160,289,0,Healthy
+41,105,198,0,Heart Disease
+45,130,234,0,Heart Disease
+35,122,192,0,Heart Disease
+41,130,204,0,Heart Disease
+64,110,211,0,Heart Disease
+58,132,224,0,Healthy
+71,110,265,0,Heart Disease
+64,140,313,0,Heart Disease
+71,160,302,0,Heart Disease
+58,120,340,0,Heart Disease
+40,152,223,0,Healthy
+52,138,223,0,Heart Disease
+58,128,259,0,Healthy
+61,150,243,0,Heart Disease
+59,150,212,0,Heart Disease
+56,200,288,0,Healthy
+67,100,299,0,Healthy
+67,120,237,0,Healthy
+58,150,270,0,Healthy
+35,122,192,0,Heart Disease
+52,120,325,0,Heart Disease
+46,105,204,0,Heart Disease
+51,94,227,0,Heart Disease
+55,132,342,0,Heart Disease
+60,145,282,0,Healthy
+52,136,196,0,Heart Disease
+62,120,267,0,Healthy
+44,118,242,0,Heart Disease
+44,120,220,0,Heart Disease
+59,126,218,0,Healthy
+56,140,294,0,Heart Disease
+61,120,260,0,Healthy
+48,130,256,0,Healthy
+70,160,269,0,Healthy
+74,120,269,0,Heart Disease
+40,140,199,0,Heart Disease
+42,148,244,0,Heart Disease
+64,140,313,0,Heart Disease
+63,135,252,0,Heart Disease
+59,140,177,0,Healthy
+53,128,216,0,Heart Disease
+53,130,264,0,Heart Disease
+48,130,275,0,Heart Disease
+45,142,309,0,Healthy
+66,160,246,0,Healthy
+48,130,245,0,Heart Disease
+56,140,294,0,Heart Disease
+54,192,283,0,Healthy
+57,150,276,0,Healthy
+70,130,322,0,Healthy
+53,128,216,0,Heart Disease
+37,120,215,0,Heart Disease
+63,108,269,0,Healthy
+37,130,250,0,Heart Disease
+54,110,214,0,Heart Disease
+60,130,206,0,Healthy
+58,150,270,0,Healthy
+57,150,126,0,Heart Disease
+54,125,273,0,Heart Disease
+56,130,256,0,Healthy
+60,130,253,0,Healthy
+38,138,175,0,Heart Disease
+44,120,226,0,Heart Disease
+65,155,269,0,Heart Disease
+52,172,199,0,Heart Disease
+41,120,157,0,Heart Disease
+66,160,246,0,Healthy
+50,150,243,0,Healthy
+54,108,267,0,Heart Disease
+43,132,247,0,Healthy
+62,130,263,0,Healthy
+66,120,302,0,Heart Disease
+50,144,200,0,Healthy
+57,110,335,0,Healthy
+57,110,201,0,Heart Disease
+57,124,261,0,Healthy
+46,138,243,0,Heart Disease
+59,164,176,0,Healthy
+67,160,286,0,Healthy
+59,134,204,0,Healthy
+53,128,216,0,Heart Disease
+48,122,222,0,Heart Disease
+62,130,231,0,Heart Disease
+43,122,213,0,Heart Disease
+53,130,246,0,Heart Disease
+57,130,236,0,Healthy
+53,130,246,0,Heart Disease
+58,112,230,0,Healthy
+48,110,229,0,Healthy
+58,105,240,0,Heart Disease
+51,110,175,0,Heart Disease
+43,132,341,0,Healthy
+55,132,353,0,Healthy
+54,110,214,0,Heart Disease
+58,120,284,0,Healthy
+46,142,177,0,Heart Disease
+66,160,228,0,Heart Disease
+59,140,221,0,Heart Disease
+64,130,303,0,Heart Disease
+67,120,237,0,Healthy
+52,118,186,0,Heart Disease
+58,146,218,0,Healthy
+58,132,224,0,Healthy
+59,110,239,0,Healthy
+58,150,270,0,Healthy
+35,126,282,0,Healthy
+51,110,175,0,Heart Disease
+42,120,209,0,Heart Disease
+77,125,304,0,Healthy
+64,120,246,0,Healthy
+63,145,233,0,Heart Disease
+58,136,319,0,Healthy
+45,110,264,0,Healthy
+51,110,175,0,Heart Disease
+62,160,164,0,Healthy
+63,130,330,0,Healthy
+66,146,278,0,Heart Disease
+68,180,274,0,Healthy
+40,110,167,0,Healthy
+66,160,228,0,Heart Disease
+63,145,233,0,Heart Disease
+49,120,188,0,Healthy
+71,112,149,0,Heart Disease
+70,156,245,0,Heart Disease
+46,105,204,0,Heart Disease
+61,140,207,0,Healthy
+56,130,256,0,Healthy
+58,140,211,0,Heart Disease
+58,100,234,0,Healthy
+46,138,243,0,Heart Disease
+46,150,231,0,Healthy
+41,105,198,0,Heart Disease
+56,125,249,0,Healthy
+57,150,276,0,Healthy
+70,130,322,0,Healthy
+59,170,288,0,Healthy
+41,130,204,0,Heart Disease
+54,125,273,0,Heart Disease
+52,138,223,0,Heart Disease
+62,124,209,0,Heart Disease
+65,160,360,0,Heart Disease
+57,128,303,0,Heart Disease
+42,102,265,0,Heart Disease
+57,120,354,0,Heart Disease
+58,136,319,0,Healthy
+45,142,309,0,Healthy
+51,130,305,0,Healthy
+54,160,201,0,Heart Disease
+57,150,168,0,Heart Disease
+43,132,247,0,Healthy
+47,108,243,0,Healthy
+67,152,212,0,Healthy
+65,150,225,0,Healthy
+60,102,318,0,Heart Disease
+37,130,250,0,Heart Disease
+41,112,268,0,Heart Disease
+57,120,354,0,Heart Disease
+59,174,249,0,Healthy
+67,120,229,0,Healthy
+47,130,253,0,Heart Disease
+58,120,284,0,Healthy
+62,150,244,0,Healthy
+60,140,293,0,Healthy
+57,152,274,0,Healthy
+57,150,168,0,Heart Disease
+47,130,253,0,Heart Disease
+52,128,205,0,Heart Disease
+53,130,246,0,Heart Disease
+55,160,289,0,Healthy
+51,120,295,0,Heart Disease
+52,112,230,0,Healthy
+63,150,407,0,Healthy
+49,134,271,0,Heart Disease
+66,178,228,0,Healthy
+49,134,271,0,Heart Disease
+65,150,225,0,Healthy
+69,160,234,0,Heart Disease
+47,108,243,0,Healthy
+39,138,220,0,Heart Disease
+43,150,247,0,Heart Disease
+51,140,261,0,Heart Disease
+69,140,254,0,Healthy
+48,124,255,0,Heart Disease
+52,118,186,0,Heart Disease
+43,110,211,0,Heart Disease
+67,115,564,0,Heart Disease
+38,138,175,0,Heart Disease
+44,130,219,0,Heart Disease
+47,110,275,0,Healthy
+61,150,243,0,Heart Disease
+67,160,286,0,Healthy
+60,150,240,0,Heart Disease
+64,140,313,0,Heart Disease
+58,130,197,0,Heart Disease
+41,130,214,0,Heart Disease
+48,110,229,0,Healthy
+57,150,126,0,Heart Disease
+57,165,289,0,Healthy
+57,128,229,0,Healthy
+39,140,321,0,Heart Disease
+58,128,216,0,Healthy
+51,130,305,0,Healthy
+63,150,407,0,Healthy
+51,140,298,0,Healthy
+35,122,192,0,Heart Disease
+65,110,248,0,Healthy
+62,120,281,0,Healthy
+41,110,172,0,Healthy
+65,135,254,0,Healthy
+54,132,288,0,Heart Disease
+61,150,243,0,Heart Disease
+57,128,303,0,Heart Disease
+57,150,168,0,Heart Disease
+64,125,309,0,Healthy
+55,132,353,0,Healthy
+51,125,245,0,Heart Disease
+59,135,234,0,Heart Disease
+68,180,274,0,Healthy
+57,154,232,0,Healthy
+54,140,239,0,Heart Disease
+46,142,177,0,Heart Disease
+71,112,149,0,Heart Disease
+35,138,183,0,Heart Disease
+46,142,177,0,Heart Disease
+45,130,234,0,Heart Disease
+47,108,243,0,Healthy
+44,118,242,0,Heart Disease
+61,120,260,0,Healthy
+41,130,204,0,Heart Disease
+56,200,288,0,Healthy
+55,180,327,0,Healthy
+54,132,288,0,Heart Disease
+43,120,177,0,Healthy
+44,112,290,0,Healthy
+54,110,206,0,Healthy
+44,120,220,0,Heart Disease
+49,120,188,0,Healthy
+60,130,206,0,Healthy
+41,105,198,0,Heart Disease
+49,120,188,0,Healthy
+61,148,203,0,Healthy
+59,140,177,0,Healthy
+58,125,220,0,Heart Disease
+67,152,277,0,Heart Disease
+61,148,203,0,Healthy
+58,112,230,0,Healthy
+51,130,256,0,Heart Disease
+62,160,164,0,Healthy
+62,124,209,0,Heart Disease
+59,178,270,0,Heart Disease
+69,160,234,0,Heart Disease
+60,150,258,0,Healthy
+65,155,269,0,Heart Disease
+63,124,197,0,Healthy
+53,138,234,0,Heart Disease
+54,108,267,0,Heart Disease
+76,140,197,0,Heart Disease
+50,120,219,0,Heart Disease
+52,120,325,0,Heart Disease
+46,120,249,0,Healthy
+64,170,227,0,Heart Disease
+58,128,259,0,Healthy
+44,140,235,0,Heart Disease
+62,140,394,0,Heart Disease
+59,134,204,0,Healthy
+54,125,273,0,Heart Disease
+48,110,229,0,Healthy
+70,130,322,0,Healthy
+67,106,223,0,Heart Disease
+51,120,295,0,Heart Disease
+68,118,277,0,Heart Disease
+69,140,254,0,Healthy
+54,122,286,0,Healthy
+43,132,341,0,Healthy
+53,130,197,0,Heart Disease
+58,100,234,0,Healthy
+67,125,254,0,Healthy
+59,140,177,0,Healthy
+48,122,222,0,Heart Disease
+39,94,199,0,Heart Disease
+67,120,237,0,Healthy
+58,130,197,0,Heart Disease
+65,155,269,0,Heart Disease
+42,120,209,0,Heart Disease
+44,112,290,0,Healthy
+56,132,184,0,Healthy
+53,138,234,0,Heart Disease
+50,110,254,0,Heart Disease
+41,130,214,0,Heart Disease
+54,160,201,0,Heart Disease
+42,120,240,0,Heart Disease
+54,135,304,0,Heart Disease
+60,145,282,0,Healthy
+34,118,182,0,Heart Disease
+44,112,290,0,Healthy
+60,125,258,0,Healthy
+43,150,247,0,Heart Disease
+52,152,298,0,Heart Disease
+70,130,322,0,Healthy
+62,140,394,0,Heart Disease
+58,146,218,0,Healthy
+46,101,197,0,Heart Disease
+44,140,235,0,Heart Disease
+55,130,262,0,Heart Disease
+43,120,177,0,Healthy
+55,132,353,0,Healthy
+40,140,199,0,Heart Disease
+64,125,309,0,Healthy
+59,164,176,0,Healthy
+61,145,307,0,Healthy
+54,122,286,0,Healthy
+74,120,269,0,Heart Disease
+63,108,269,0,Healthy
+70,160,269,0,Healthy
+63,108,269,0,Healthy
+64,145,212,0,Healthy
+61,148,203,0,Healthy
+59,140,221,0,Heart Disease
+38,138,175,0,Heart Disease
+58,120,284,0,Healthy
+63,140,195,0,Heart Disease
+62,130,263,0,Healthy
+46,140,311,0,Healthy
+58,120,340,0,Heart Disease
+63,140,195,0,Heart Disease
+47,130,253,0,Heart Disease
+71,110,265,0,Heart Disease
+66,112,212,0,Healthy
+42,136,315,0,Healthy
+64,145,212,0,Healthy
+55,180,327,0,Healthy
+43,132,341,0,Healthy
+55,128,205,0,Healthy
+58,170,225,0,Healthy
+55,140,217,0,Healthy
+51,130,305,0,Healthy
+50,120,219,0,Heart Disease
+43,115,303,0,Heart Disease
+41,126,306,0,Heart Disease
+49,130,266,0,Heart Disease
+65,110,248,0,Healthy
+57,152,274,0,Healthy
+48,130,256,0,Healthy
+62,138,294,0,Healthy
+61,134,234,0,Healthy
+59,178,270,0,Heart Disease
+69,140,254,0,Healthy
+58,132,224,0,Healthy
+38,120,231,0,Healthy
+69,140,239,0,Heart Disease
+65,138,282,0,Healthy
+45,110,264,0,Healthy
+49,130,266,0,Heart Disease
+45,130,234,0,Heart Disease
+61,138,166,0,Healthy
+52,125,212,0,Healthy
+53,130,264,0,Heart Disease
+59,174,249,0,Healthy
+58,120,340,0,Heart Disease
+65,138,282,0,Healthy
+58,130,197,0,Heart Disease
+46,138,243,0,Heart Disease
+56,134,409,0,Healthy
+64,128,263,0,Heart Disease
+65,120,177,0,Heart Disease
+44,120,226,0,Heart Disease
+50,150,243,0,Healthy
+47,108,243,0,Healthy
+64,130,303,0,Heart Disease
+71,112,149,0,Heart Disease
+45,130,234,0,Heart Disease
+62,120,267,0,Healthy
+41,120,157,0,Heart Disease
+66,150,226,0,Heart Disease
+56,130,283,0,Healthy
+41,126,306,0,Heart Disease
+41,110,235,0,Heart Disease
+57,130,236,0,Healthy
+39,138,220,0,Heart Disease
+64,125,309,0,Healthy
+59,138,271,0,Heart Disease
+61,138,166,0,Healthy
+58,114,318,0,Healthy
+47,112,204,0,Heart Disease
+58,100,248,0,Heart Disease
+66,150,226,0,Heart Disease
+65,140,417,0,Heart Disease
+35,122,192,0,Heart Disease
+57,124,261,0,Healthy
+29,130,204,0,Heart Disease
+66,160,246,0,Healthy
+61,130,330,0,Healthy
+52,125,212,0,Healthy
+68,118,277,0,Heart Disease
+54,120,258,0,Heart Disease
+63,130,330,0,Healthy
+58,100,234,0,Healthy
+60,130,253,0,Healthy
+63,130,254,0,Healthy
+41,112,268,0,Heart Disease
+68,180,274,0,Healthy
+42,120,295,0,Heart Disease
+59,170,326,0,Healthy
+59,164,176,0,Healthy
+43,120,177,0,Healthy
+60,140,185,0,Healthy
+63,150,407,0,Healthy
+52,128,204,0,Healthy
+58,125,300,0,Healthy
+56,200,288,0,Healthy
+54,135,304,0,Heart Disease
+58,105,240,0,Heart Disease
+55,135,250,0,Heart Disease
+53,140,203,0,Healthy
+63,140,195,0,Heart Disease
+39,118,219,0,Healthy
+35,126,282,0,Healthy
+50,120,219,0,Heart Disease
+67,152,212,0,Healthy
+66,112,212,0,Healthy
+35,126,282,0,Healthy
+41,130,214,0,Heart Disease
+35,120,198,0,Healthy
+71,160,302,0,Heart Disease
+57,110,201,0,Heart Disease
+51,94,227,0,Heart Disease
+58,128,216,0,Healthy
+57,128,229,0,Healthy
+56,140,294,0,Heart Disease
+60,120,178,0,Heart Disease
+45,110,264,0,Healthy
+56,130,221,0,Heart Disease
+35,120,198,0,Healthy
+45,112,160,0,Heart Disease
+66,150,226,0,Heart Disease
+51,125,213,0,Heart Disease
+70,156,245,0,Heart Disease
+55,128,205,0,Healthy
+56,130,256,0,Healthy
+55,135,250,0,Heart Disease
+52,108,233,0,Heart Disease
+64,140,335,0,Healthy
+45,115,260,0,Heart Disease
+67,152,277,0,Heart Disease
+68,120,211,0,Heart Disease
+74,120,269,0,Heart Disease
+60,150,258,0,Healthy
+48,124,274,0,Healthy
+56,130,221,0,Heart Disease
+46,140,311,0,Healthy
+55,135,250,0,Heart Disease
+44,120,220,0,Heart Disease
+52,112,230,0,Healthy
+51,94,227,0,Heart Disease
+44,108,141,0,Heart Disease
+52,128,204,0,Healthy
+50,129,196,0,Heart Disease
+59,110,239,0,Healthy
+67,120,229,0,Healthy
+58,125,300,0,Healthy
+52,128,255,0,Healthy
+44,140,235,0,Heart Disease
+41,112,268,0,Heart Disease
+63,130,330,0,Healthy
+58,125,220,0,Heart Disease
+60,102,318,0,Heart Disease
+51,100,222,0,Heart Disease
+64,140,335,0,Healthy
+60,117,230,0,Healthy
+44,120,226,0,Heart Disease
+58,125,220,0,Heart Disease
+55,130,262,0,Heart Disease
+65,160,360,0,Heart Disease
+48,130,245,0,Heart Disease
+65,120,177,0,Heart Disease
+51,130,256,0,Heart Disease
+48,124,255,0,Heart Disease
+64,120,246,0,Healthy
+66,160,228,0,Heart Disease
+46,105,204,0,Heart Disease
+61,130,330,0,Healthy
+57,150,276,0,Healthy
+49,130,269,0,Heart Disease
+56,130,221,0,Heart Disease
+58,150,283,0,Heart Disease
+63,140,187,0,Healthy
+57,110,335,0,Healthy
+57,110,335,0,Healthy
+68,144,193,0,Healthy
+46,101,197,0,Heart Disease
+71,110,265,0,Heart Disease
+41,135,203,0,Heart Disease
+45,138,236,0,Heart Disease
+62,150,244,0,Healthy
+65,150,225,0,Healthy
+48,130,275,0,Heart Disease
+51,100,222,0,Heart Disease
+61,145,307,0,Healthy
+53,123,282,0,Healthy
+59,134,204,0,Healthy
+34,118,210,0,Heart Disease
+44,120,169,0,Healthy
+58,146,218,0,Healthy
+64,130,303,0,Heart Disease
+56,120,240,0,Heart Disease
+54,150,232,0,Heart Disease
+55,160,289,0,Healthy
+67,125,254,0,Healthy
+51,140,298,0,Healthy
+62,138,294,0,Healthy
+62,120,281,0,Healthy
+54,110,239,0,Healthy
+54,110,239,0,Healthy
+68,144,193,0,Healthy
+60,120,178,0,Heart Disease
+61,134,234,0,Healthy
+62,128,208,0,Heart Disease
+41,135,203,0,Heart Disease
+65,150,225,0,Healthy
+59,170,288,0,Healthy
+43,115,303,0,Heart Disease
+67,120,229,0,Healthy
+63,145,233,0,Heart Disease
+63,124,197,0,Healthy
+52,112,230,0,Healthy
+58,130,197,0,Heart Disease
+53,142,226,0,Heart Disease
+57,150,276,0,Healthy
+44,130,233,0,Heart Disease
+51,94,227,0,Heart Disease
+54,110,214,0,Heart Disease
+40,110,167,0,Healthy
+57,124,261,0,Healthy
+62,140,268,0,Healthy
+53,140,203,0,Healthy
+62,128,208,0,Heart Disease
+58,105,240,0,Heart Disease
+70,156,245,0,Heart Disease
+45,115,260,0,Heart Disease
+42,148,244,0,Heart Disease
+58,170,225,0,Healthy
+61,140,207,0,Healthy
+62,140,268,0,Healthy
+60,130,253,0,Healthy
+54,140,239,0,Heart Disease
+61,138,166,0,Healthy
+63,135,252,0,Heart Disease
+42,130,180,0,Heart Disease
+57,128,229,0,Healthy
+44,130,233,0,Heart Disease
+54,124,266,0,Healthy
+51,100,222,0,Heart Disease
+58,125,220,0,Heart Disease
+68,118,277,0,Heart Disease
+55,140,217,0,Healthy
+42,136,315,0,Healthy
+49,118,149,0,Healthy
+53,138,234,0,Heart Disease
+52,172,199,0,Heart Disease
+51,125,213,0,Heart Disease
+51,140,261,0,Heart Disease
+70,145,174,0,Healthy
+35,138,183,0,Heart Disease
+58,112,230,0,Healthy
+59,160,273,0,Healthy
+60,140,293,0,Healthy
+56,132,184,0,Healthy
+35,138,183,0,Heart Disease
+61,138,166,0,Healthy
+58,150,283,0,Heart Disease
+52,128,255,0,Healthy
+58,120,284,0,Healthy
+37,130,250,0,Heart Disease
+52,128,255,0,Healthy
+67,120,229,0,Healthy
+65,138,282,0,Healthy
+46,101,197,0,Heart Disease
+68,120,211,0,Heart Disease
+43,115,303,0,Heart Disease
+68,120,211,0,Heart Disease
+51,140,299,0,Healthy
+52,112,230,0,Healthy
+64,140,335,0,Healthy
+59,170,288,0,Healthy
+52,125,212,0,Healthy
+59,160,273,0,Healthy
+60,150,240,0,Heart Disease
+41,112,250,0,Heart Disease
+41,110,235,0,Heart Disease
+56,120,240,0,Heart Disease
+56,120,236,0,Heart Disease
+48,130,275,0,Heart Disease
+39,140,321,0,Heart Disease
+64,170,227,0,Heart Disease
+57,140,192,0,Heart Disease
+59,160,273,0,Healthy
+60,130,206,0,Healthy
+61,140,207,0,Healthy
+43,122,213,0,Heart Disease
+54,120,188,0,Healthy
+59,138,271,0,Heart Disease
+57,132,207,0,Heart Disease
+57,154,232,0,Healthy
+57,130,131,0,Healthy
+48,124,274,0,Healthy
+70,145,174,0,Healthy
+57,165,289,0,Healthy
+61,120,260,0,Healthy
+57,110,201,0,Heart Disease
+60,150,258,0,Healthy
+63,150,407,0,Healthy
+55,128,205,0,Healthy
+64,180,325,0,Heart Disease
+54,110,239,0,Healthy
+52,128,204,0,Healthy
+51,140,299,0,Healthy
+62,130,263,0,Healthy
+59,178,270,0,Heart Disease
+52,134,201,0,Heart Disease
+42,102,265,0,Heart Disease
+59,135,234,0,Heart Disease
+61,134,234,0,Healthy
+42,102,265,0,Heart Disease
+62,140,268,0,Healthy
+59,126,218,0,Healthy
+55,130,262,0,Heart Disease
+64,120,246,0,Healthy
+42,140,226,0,Heart Disease
+50,120,244,0,Heart Disease
+62,120,267,0,Healthy
+50,144,200,0,Healthy
+50,140,233,0,Healthy
+58,136,319,0,Healthy
+35,120,198,0,Healthy
+45,104,208,0,Heart Disease
+66,112,212,0,Healthy
+46,120,249,0,Healthy
+65,135,254,0,Healthy
+47,130,253,0,Heart Disease
+59,134,204,0,Healthy
+38,120,231,0,Healthy
+39,118,219,0,Healthy
+58,146,218,0,Healthy
+44,120,263,0,Heart Disease
+54,140,239,0,Heart Disease
+61,130,330,0,Healthy
+57,130,131,0,Healthy
+54,110,206,0,Healthy
+42,120,240,0,Heart Disease
+54,124,266,0,Healthy
+60,130,206,0,Healthy
+65,135,254,0,Healthy
+40,152,223,0,Healthy
+51,140,308,0,Heart Disease
+38,120,231,0,Healthy
+42,130,180,0,Heart Disease
+56,120,240,0,Heart Disease
+43,130,315,0,Heart Disease
+64,140,335,0,Healthy
+53,142,226,0,Heart Disease
+49,134,271,0,Heart Disease
+57,140,241,0,Healthy
+52,136,196,0,Heart Disease
+69,140,239,0,Heart Disease
+65,120,177,0,Heart Disease
+66,178,228,0,Healthy
+56,120,193,0,Heart Disease
+67,152,277,0,Heart Disease
+54,160,201,0,Heart Disease
+70,145,174,0,Healthy
+57,132,207,0,Heart Disease
+67,160,286,0,Healthy
+62,130,263,0,Healthy
+54,135,304,0,Heart Disease
+45,138,236,0,Heart Disease
+53,130,264,0,Heart Disease
+62,130,231,0,Heart Disease
+49,130,269,0,Heart Disease
+50,140,233,0,Healthy
+65,140,417,0,Heart Disease
+69,140,239,0,Heart Disease
+52,136,196,0,Heart Disease
+58,100,248,0,Heart Disease
+52,108,233,0,Heart Disease
+57,140,241,0,Healthy
+44,108,141,0,Heart Disease
+76,140,197,0,Heart Disease
+58,128,259,0,Healthy
+60,120,178,0,Heart Disease
+53,140,203,0,Healthy
+52,120,325,0,Heart Disease
+38,138,175,0,Heart Disease
+52,172,199,0,Heart Disease
+52,118,186,0,Heart Disease
+51,125,245,0,Heart Disease
+43,110,211,0,Heart Disease
+39,118,219,0,Healthy
+63,108,269,0,Healthy
+52,128,205,0,Heart Disease
+44,110,197,0,Healthy
+45,142,309,0,Healthy
+57,140,192,0,Heart Disease
+39,118,219,0,Healthy
+67,106,223,0,Heart Disease
+64,128,263,0,Heart Disease
+59,135,234,0,Heart Disease
+62,130,231,0,Heart Disease
+55,180,327,0,Healthy
+57,154,232,0,Healthy
+60,140,293,0,Healthy
+71,160,302,0,Heart Disease
+56,120,236,0,Heart Disease
+60,117,230,0,Healthy
+50,110,254,0,Heart Disease
+43,132,247,0,Healthy
+59,110,239,0,Healthy
+44,120,263,0,Heart Disease
+56,134,409,0,Healthy
+54,120,188,0,Healthy
+42,136,315,0,Healthy
+67,125,254,0,Healthy
+64,145,212,0,Healthy
+42,140,226,0,Heart Disease
+66,112,212,0,Healthy
+52,108,233,0,Heart Disease
+51,140,308,0,Heart Disease
+55,128,205,0,Healthy
+58,140,211,0,Heart Disease
+56,120,193,0,Heart Disease
+42,120,295,0,Heart Disease
+40,152,223,0,Healthy
+51,140,299,0,Healthy
+45,128,308,0,Heart Disease
+48,110,229,0,Healthy
+58,114,318,0,Healthy
+44,108,141,0,Heart Disease
+58,128,216,0,Healthy
+65,138,282,0,Healthy
+53,123,282,0,Healthy
+41,110,172,0,Healthy
+47,112,204,0,Heart Disease
+59,140,221,0,Heart Disease
+60,125,258,0,Healthy
+47,110,275,0,Healthy
+50,110,254,0,Heart Disease
+54,120,188,0,Healthy
+50,72,0,148,Diabetes
+31,66,0,85,Healthy
+32,64,0,183,Diabetes
+21,66,0,89,Healthy
+33,40,0,137,Diabetes
+30,74,0,116,Healthy
+26,50,0,78,Diabetes
+29,0,0,115,Healthy
+53,70,0,197,Diabetes
+54,96,0,125,Diabetes
+30,92,0,110,Healthy
+34,74,0,168,Diabetes
+57,80,0,139,Healthy
+59,60,0,189,Diabetes
+51,72,0,166,Diabetes
+32,0,0,100,Diabetes
+31,84,0,118,Diabetes
+31,74,0,107,Diabetes
+33,30,0,103,Healthy
+32,70,0,115,Diabetes
+27,88,0,126,Healthy
+50,84,0,99,Healthy
+41,90,0,196,Diabetes
+29,80,0,119,Diabetes
+51,94,0,143,Diabetes
+41,70,0,125,Diabetes
+43,76,0,147,Diabetes
+22,66,0,97,Healthy
+57,82,0,145,Healthy
+38,92,0,117,Healthy
+60,75,0,109,Healthy
+28,76,0,158,Diabetes
+22,58,0,88,Healthy
+28,92,0,92,Healthy
+45,78,0,122,Healthy
+33,60,0,103,Healthy
+35,76,0,138,Healthy
+46,76,0,102,Diabetes
+27,68,0,90,Diabetes
+56,72,0,111,Diabetes
+26,64,0,180,Healthy
+37,84,0,133,Healthy
+48,92,0,106,Healthy
+54,110,0,171,Diabetes
+40,64,0,159,Healthy
+25,66,0,180,Diabetes
+29,56,0,146,Healthy
+22,70,0,71,Healthy
+31,66,0,103,Diabetes
+24,0,0,105,Healthy
+22,80,0,103,Healthy
+26,50,0,101,Healthy
+30,66,0,88,Healthy
+58,90,0,176,Diabetes
+42,66,0,150,Healthy
+21,50,0,73,Healthy
+41,68,0,187,Diabetes
+31,88,0,100,Healthy
+44,82,0,146,Healthy
+22,64,0,105,Healthy
+21,0,0,84,Healthy
+39,72,0,133,Diabetes
+36,62,0,44,Healthy
+24,58,0,141,Healthy
+42,66,0,114,Diabetes
+32,74,0,99,Healthy
+38,88,0,109,Diabetes
+54,92,0,109,Healthy
+25,66,0,95,Healthy
+27,85,0,146,Healthy
+28,66,0,100,Diabetes
+26,64,0,139,Healthy
+42,90,0,126,Diabetes
+23,86,0,129,Healthy
+22,75,0,79,Healthy
+22,48,0,0,Healthy
+41,78,0,62,Healthy
+27,72,0,95,Healthy
+26,0,0,131,Diabetes
+24,66,0,112,Healthy
+22,44,0,113,Healthy
+22,0,0,74,Healthy
+36,78,0,83,Healthy
+22,65,0,101,Healthy
+37,108,0,137,Diabetes
+27,74,0,110,Healthy
+45,72,0,106,Healthy
+26,68,0,100,Healthy
+43,70,0,136,Diabetes
+24,68,0,107,Healthy
+21,55,0,80,Healthy
+34,80,0,123,Healthy
+42,78,0,81,Healthy
+60,72,0,134,Diabetes
+21,82,0,142,Healthy
+40,72,0,144,Healthy
+24,62,0,92,Healthy
+22,48,0,71,Healthy
+23,50,0,93,Healthy
+31,90,0,122,Diabetes
+33,72,0,163,Diabetes
+22,60,0,151,Healthy
+21,96,0,125,Healthy
+24,72,0,81,Healthy
+27,65,0,85,Healthy
+21,56,0,126,Healthy
+27,122,0,96,Healthy
+37,58,0,144,Healthy
+25,58,0,83,Healthy
+24,85,0,95,Diabetes
+24,72,0,171,Diabetes
+46,62,0,155,Diabetes
+23,76,0,89,Healthy
+25,62,0,76,Healthy
+39,54,0,160,Diabetes
+61,92,0,146,Diabetes
+38,74,0,124,Diabetes
+25,48,0,78,Healthy
+22,60,0,97,Healthy
+21,76,0,99,Healthy
+25,76,0,162,Diabetes
+24,64,0,111,Healthy
+23,74,0,107,Healthy
+69,80,0,132,Healthy
+23,76,0,113,Diabetes
+26,30,0,88,Diabetes
+30,70,0,120,Healthy
+23,58,0,118,Healthy
+40,88,0,117,Diabetes
+62,84,0,105,Diabetes
+33,70,0,173,Diabetes
+33,56,0,122,Diabetes
+30,64,0,170,Diabetes
+39,74,0,84,Healthy
+26,68,0,96,Healthy
+31,60,0,125,Healthy
+21,70,0,100,Healthy
+22,60,0,93,Healthy
+29,80,0,129,Healthy
+28,72,0,105,Healthy
+55,78,0,128,Healthy
+38,82,0,106,Healthy
+22,52,0,108,Healthy
+42,66,0,108,Diabetes
+23,62,0,154,Healthy
+21,75,0,102,Healthy
+41,80,0,57,Healthy
+34,64,0,106,Healthy
+65,78,0,147,Healthy
+22,70,0,90,Healthy
+24,74,0,136,Healthy
+37,65,0,114,Healthy
+42,86,0,156,Diabetes
+23,82,0,153,Healthy
+43,78,0,188,Diabetes
+36,88,0,152,Diabetes
+21,52,0,99,Healthy
+23,56,0,109,Healthy
+22,74,0,88,Healthy
+47,72,0,163,Diabetes
+36,90,0,151,Healthy
+45,74,0,102,Healthy
+27,80,0,114,Healthy
+21,64,0,100,Healthy
+32,88,0,131,Diabetes
+41,74,0,104,Diabetes
+22,66,0,148,Healthy
+34,68,0,120,Healthy
+29,66,0,110,Healthy
+29,90,0,111,Healthy
+36,82,0,102,Diabetes
+29,70,0,134,Diabetes
+25,0,0,87,Healthy
+23,60,0,79,Healthy
+33,64,0,75,Healthy
+36,72,0,179,Diabetes
+42,78,0,85,Healthy
+26,110,0,129,Diabetes
+47,78,0,143,Healthy
+37,82,0,130,Diabetes
+32,80,0,87,Healthy
+23,64,0,119,Healthy
+21,74,0,0,Healthy
+27,60,0,73,Healthy
+40,74,0,141,Healthy
+41,68,0,194,Diabetes
+60,68,0,181,Diabetes
+33,98,0,128,Diabetes
+31,76,0,109,Diabetes
+25,80,0,139,Diabetes
+21,62,0,111,Healthy
+40,70,0,123,Healthy
+36,66,0,159,Diabetes
+40,0,0,135,Diabetes
+42,55,0,85,Healthy
+29,84,0,158,Diabetes
+21,58,0,105,Healthy
+23,62,0,107,Diabetes
+26,64,0,109,Diabetes
+29,60,0,148,Diabetes
+21,80,0,113,Healthy
+28,82,0,138,Healthy
+32,68,0,108,Healthy
+27,70,0,99,Healthy
+55,72,0,103,Healthy
+27,72,0,111,Healthy
+57,76,0,196,Diabetes
+52,104,0,162,Diabetes
+21,64,0,96,Healthy
+41,84,0,184,Diabetes
+25,60,0,81,Healthy
+24,85,0,147,Healthy
+60,95,0,179,Healthy
+24,65,0,140,Diabetes
+36,82,0,112,Diabetes
+38,70,0,151,Diabetes
+25,62,0,109,Diabetes
+32,68,0,125,Healthy
+32,74,0,85,Diabetes
+41,66,0,112,Diabetes
+21,60,0,177,Diabetes
+66,90,0,158,Diabetes
+37,0,0,119,Healthy
+61,60,0,142,Healthy
+26,66,0,100,Healthy
+22,78,0,87,Healthy
+26,76,0,101,Healthy
+24,52,0,162,Diabetes
+31,70,0,197,Healthy
+24,80,0,117,Healthy
+22,86,0,142,Diabetes
+46,80,0,134,Diabetes
+22,80,0,79,Healthy
+29,68,0,122,Healthy
+23,68,0,74,Healthy
+26,72,0,171,Diabetes
+51,84,0,181,Diabetes
+23,90,0,179,Diabetes
+32,84,0,164,Diabetes
+27,76,0,104,Healthy
+21,64,0,91,Healthy
+22,70,0,91,Healthy
+22,54,0,139,Diabetes
+33,50,0,119,Diabetes
+29,76,0,146,Healthy
+49,85,0,184,Diabetes
+41,68,0,122,Healthy
+23,90,0,165,Healthy
+34,70,0,124,Healthy
+23,86,0,111,Healthy
+42,52,0,106,Healthy
+27,84,0,129,Healthy
+24,80,0,90,Healthy
+25,68,0,86,Healthy
+44,62,0,92,Diabetes
+21,64,0,113,Diabetes
+30,56,0,111,Healthy
+25,68,0,114,Healthy
+24,50,0,193,Healthy
+51,76,0,155,Diabetes
+34,68,0,191,Healthy
+27,0,0,141,Diabetes
+24,70,0,95,Healthy
+63,80,0,142,Healthy
+35,62,0,123,Diabetes
+43,74,0,96,Healthy
+25,0,0,138,Diabetes
+24,64,0,128,Healthy
+21,52,0,102,Healthy
+28,0,0,146,Diabetes
+38,86,0,101,Diabetes
+21,62,0,108,Healthy
+40,78,0,122,Healthy
+21,78,0,71,Healthy
+52,70,0,106,Healthy
+25,70,0,100,Healthy
+29,60,0,106,Diabetes
+23,64,0,104,Healthy
+57,74,0,114,Healthy
+22,62,0,108,Healthy
+28,70,0,146,Diabetes
+39,76,0,129,Healthy
+37,88,0,133,Healthy
+47,86,0,161,Diabetes
+52,80,0,108,Diabetes
+51,74,0,136,Healthy
+34,84,0,155,Healthy
+29,86,0,119,Diabetes
+26,56,0,96,Healthy
+33,72,0,108,Healthy
+21,88,0,78,Healthy
+25,62,0,107,Diabetes
+31,78,0,128,Diabetes
+24,48,0,128,Diabetes
+65,50,0,161,Healthy
+28,62,0,151,Healthy
+29,70,0,146,Diabetes
+24,84,0,126,Healthy
+46,78,0,100,Diabetes
+58,72,0,112,Healthy
+30,0,0,167,Diabetes
+25,58,0,144,Diabetes
+35,82,0,77,Healthy
+28,98,0,115,Diabetes
+37,76,0,150,Healthy
+29,76,0,120,Healthy
+47,68,0,161,Diabetes
+21,68,0,137,Healthy
+25,68,0,128,Diabetes
+30,68,0,124,Diabetes
+41,66,0,80,Healthy
+22,70,0,106,Healthy
+27,74,0,155,Diabetes
+25,50,0,113,Healthy
+43,80,0,109,Diabetes
+26,68,0,112,Healthy
+30,80,0,99,Healthy
+29,74,0,182,Diabetes
+28,66,0,115,Healthy
+59,78,0,194,Diabetes
+31,60,0,129,Healthy
+25,74,0,112,Diabetes
+36,70,0,124,Diabetes
+43,90,0,152,Diabetes
+21,75,0,112,Healthy
+24,72,0,157,Healthy
+30,64,0,122,Diabetes
+37,70,0,179,Healthy
+23,86,0,102,Diabetes
+37,70,0,105,Healthy
+46,72,0,118,Healthy
+25,58,0,87,Healthy
+41,0,0,180,Diabetes
+44,80,0,106,Healthy
+22,60,0,95,Healthy
+26,76,0,165,Healthy
+44,0,0,117,Healthy
+44,76,0,115,Diabetes
+33,78,0,152,Diabetes
+41,84,0,178,Diabetes
+22,70,0,130,Healthy
+36,74,0,95,Healthy
+22,68,0,0,Healthy
+33,86,0,122,Healthy
+57,72,0,95,Healthy
+49,88,0,126,Healthy
+22,46,0,139,Healthy
+23,0,0,116,Healthy
+26,62,0,99,Healthy
+37,80,0,0,Diabetes
+29,80,0,92,Healthy
+30,84,0,137,Healthy
+46,82,0,61,Healthy
+24,62,0,90,Healthy
+21,78,0,90,Healthy
+49,88,0,165,Diabetes
+28,50,0,125,Diabetes
+44,0,0,129,Diabetes
+48,74,0,88,Healthy
+29,76,0,196,Diabetes
+29,64,0,189,Diabetes
+63,70,0,158,Healthy
+65,108,0,103,Healthy
+67,78,0,146,Diabetes
+30,74,0,147,Healthy
+30,54,0,99,Healthy
+29,72,0,124,Diabetes
+21,64,0,101,Healthy
+22,86,0,81,Healthy
+45,102,0,133,Diabetes
+25,82,0,173,Diabetes
+21,64,0,118,Healthy
+21,64,0,84,Healthy
+25,58,0,105,Healthy
+28,52,0,122,Healthy
+58,82,0,140,Diabetes
+22,82,0,98,Healthy
+22,60,0,87,Healthy
+32,75,0,156,Diabetes
+35,100,0,93,Healthy
+24,72,0,107,Healthy
+22,68,0,105,Healthy
+21,60,0,109,Healthy
+25,62,0,90,Healthy
+25,70,0,125,Healthy
+24,54,0,119,Healthy
+35,74,0,116,Diabetes
+45,100,0,105,Diabetes
+58,82,0,144,Diabetes
+28,68,0,100,Healthy
+42,66,0,100,Healthy
+27,76,0,166,Diabetes
+21,64,0,131,Healthy
+37,72,0,116,Healthy
+31,78,0,158,Diabetes
+25,58,0,127,Healthy
+39,56,0,96,Healthy
+22,66,0,131,Diabetes
+25,70,0,82,Healthy
+25,70,0,193,Diabetes
+31,64,0,95,Diabetes
+55,61,0,137,Healthy
+35,84,0,136,Diabetes
+38,78,0,72,Healthy
+41,64,0,168,Diabetes
+26,48,0,123,Healthy
+46,72,0,115,Diabetes
+25,62,0,101,Healthy
+39,74,0,197,Diabetes
+28,68,0,172,Diabetes
+28,90,0,102,Healthy
+25,72,0,112,Healthy
+22,84,0,143,Healthy
+21,74,0,143,Healthy
+21,60,0,138,Diabetes
+22,84,0,173,Diabetes
+22,68,0,97,Healthy
+37,82,0,144,Diabetes
+27,68,0,83,Healthy
+28,64,0,129,Diabetes
+26,88,0,119,Healthy
+21,68,0,94,Healthy
+21,64,0,102,Healthy
+21,64,0,115,Healthy
+36,78,0,151,Diabetes
+31,78,0,184,Diabetes
+25,0,0,94,Healthy
+38,64,0,181,Diabetes
+26,94,0,135,Healthy
+43,82,0,95,Diabetes
+23,0,0,99,Healthy
+38,74,0,89,Healthy
+22,74,0,80,Healthy
+29,75,0,139,Healthy
+36,68,0,90,Healthy
+29,0,0,141,Diabetes
+41,85,0,140,Healthy
+28,75,0,147,Healthy
+21,70,0,97,Healthy
+31,88,0,107,Healthy
+41,104,0,189,Diabetes
+22,66,0,83,Healthy
+24,64,0,117,Healthy
+33,70,0,108,Diabetes
+30,62,0,117,Diabetes
+25,78,0,180,Diabetes
+28,72,0,100,Healthy
+26,80,0,95,Healthy
+22,64,0,104,Diabetes
+26,74,0,120,Healthy
+23,64,0,82,Healthy
+23,70,0,134,Diabetes
+25,68,0,91,Healthy
+72,0,0,119,Healthy
+24,54,0,100,Healthy
+38,62,0,175,Diabetes
+62,54,0,135,Healthy
+24,68,0,86,Healthy
+51,84,0,148,Diabetes
+81,74,0,134,Healthy
+48,72,0,120,Healthy
+26,62,0,71,Healthy
+39,70,0,74,Healthy
+37,78,0,88,Healthy
+34,98,0,115,Healthy
+21,56,0,124,Healthy
+22,52,0,74,Healthy
+25,64,0,97,Healthy
+38,0,0,120,Diabetes
+27,78,0,154,Healthy
+28,82,0,144,Healthy
+22,70,0,137,Healthy
+22,66,0,119,Healthy
+50,90,0,136,Healthy
+24,64,0,114,Healthy
+59,84,0,137,Healthy
+29,80,0,105,Diabetes
+31,76,0,114,Healthy
+39,74,0,126,Healthy
+63,86,0,132,Healthy
+35,70,0,158,Diabetes
+29,88,0,123,Healthy
+28,58,0,85,Healthy
+23,82,0,84,Healthy
+31,0,0,145,Diabetes
+24,68,0,135,Diabetes
+21,62,0,139,Healthy
+58,78,0,173,Healthy
+28,72,0,99,Healthy
+67,80,0,194,Healthy
+24,65,0,83,Healthy
+42,90,0,89,Healthy
+33,68,0,99,Healthy
+45,70,0,125,Diabetes
+22,0,0,80,Healthy
+66,74,0,166,Healthy
+30,68,0,110,Healthy
+25,72,0,81,Healthy
+55,70,0,195,Diabetes
+39,74,0,154,Healthy
+21,90,0,117,Healthy
+28,72,0,84,Healthy
+41,68,0,0,Diabetes
+41,64,0,94,Healthy
+40,78,0,96,Healthy
+38,82,0,75,Healthy
+35,90,0,180,Diabetes
+21,60,0,130,Healthy
+21,50,0,84,Healthy
+64,78,0,120,Healthy
+46,72,0,84,Diabetes
+21,62,0,139,Healthy
+58,68,0,91,Healthy
+22,62,0,91,Healthy
+24,54,0,99,Healthy
+28,70,0,163,Diabetes
+53,88,0,145,Diabetes
+51,86,0,125,Healthy
+41,60,0,76,Healthy
+60,90,0,129,Healthy
+25,70,0,68,Healthy
+26,80,0,124,Healthy
+26,0,0,114,Healthy
+45,70,0,130,Diabetes
+24,58,0,125,Healthy
+21,60,0,87,Healthy
+21,64,0,97,Healthy
+24,74,0,116,Healthy
+22,66,0,117,Healthy
+31,65,0,111,Healthy
+22,60,0,122,Healthy
+24,76,0,107,Healthy
+29,66,0,86,Healthy
+31,0,0,91,Healthy
+24,56,0,77,Healthy
+23,0,0,132,Diabetes
+46,90,0,105,Healthy
+67,60,0,57,Healthy
+23,80,0,127,Healthy
+32,92,0,129,Diabetes
+43,74,0,100,Diabetes
+27,72,0,128,Diabetes
+56,85,0,90,Diabetes
+25,90,0,84,Healthy
+29,78,0,88,Healthy
+37,90,0,186,Diabetes
+53,76,0,187,Diabetes
+28,68,0,131,Healthy
+50,82,0,164,Healthy
+37,110,0,189,Healthy
+21,70,0,116,Healthy
+25,68,0,84,Healthy
+66,88,0,114,Healthy
+23,62,0,88,Healthy
+28,64,0,84,Healthy
+37,70,0,124,Healthy
+30,70,0,97,Healthy
+58,76,0,110,Healthy
+42,68,0,103,Healthy
+35,74,0,85,Healthy
+54,76,0,125,Diabetes
+28,66,0,198,Diabetes
+24,68,0,87,Healthy
+32,60,0,99,Healthy
+27,80,0,91,Healthy
+22,54,0,95,Healthy
+21,72,0,99,Healthy
+46,62,0,92,Healthy
+37,72,0,154,Healthy
+33,66,0,121,Diabetes
+39,70,0,78,Healthy
+21,96,0,130,Healthy
+22,58,0,111,Healthy
+22,60,0,98,Healthy
+23,86,0,143,Healthy
+25,44,0,119,Healthy
+35,44,0,108,Healthy
+21,80,0,118,Diabetes
+36,68,0,133,Healthy
+62,70,0,197,Diabetes
+21,90,0,151,Diabetes
+27,60,0,109,Healthy
+62,78,0,121,Healthy
+42,76,0,100,Healthy
+52,76,0,124,Diabetes
+22,56,0,93,Healthy
+41,66,0,143,Diabetes
+29,66,0,103,Healthy
+52,86,0,176,Diabetes
+25,0,0,73,Healthy
+45,84,0,111,Diabetes
+24,78,0,112,Healthy
+44,80,0,132,Diabetes
+25,52,0,82,Healthy
+34,72,0,123,Healthy
+22,82,0,188,Diabetes
+46,76,0,67,Healthy
+21,24,0,89,Healthy
+38,74,0,173,Diabetes
+26,38,0,109,Healthy
+24,88,0,108,Healthy
+28,0,0,96,Healthy
+30,74,0,124,Healthy
+54,78,0,150,Diabetes
+36,0,0,183,Diabetes
+21,60,0,124,Healthy
+22,78,0,181,Diabetes
+25,62,0,92,Healthy
+27,82,0,152,Healthy
+23,62,0,111,Healthy
+24,54,0,106,Healthy
+36,58,0,174,Diabetes
+40,88,0,168,Diabetes
+26,80,0,105,Healthy
+50,74,0,138,Diabetes
+27,72,0,106,Healthy
+30,96,0,117,Healthy
+23,62,0,68,Healthy
+50,82,0,112,Diabetes
+24,0,0,119,Diabetes
+28,86,0,112,Healthy
+28,76,0,92,Healthy
+45,94,0,183,Healthy
+21,70,0,94,Healthy
+21,64,0,108,Healthy
+29,88,0,90,Healthy
+21,68,0,125,Healthy
+21,78,0,132,Healthy
+45,80,0,128,Healthy
+21,65,0,94,Healthy
+34,64,0,114,Diabetes
+24,78,0,102,Healthy
+23,60,0,111,Healthy
+22,82,0,128,Healthy
+31,62,0,92,Healthy
+38,72,0,104,Diabetes
+48,74,0,104,Healthy
+23,76,0,94,Healthy
+32,76,0,97,Diabetes
+28,74,0,100,Healthy
+27,86,0,102,Healthy
+24,70,0,128,Healthy
+50,80,0,147,Diabetes
+31,0,0,90,Healthy
+27,72,0,103,Healthy
+30,74,0,157,Healthy
+33,74,0,167,Diabetes
+22,50,0,179,Diabetes
+42,84,0,136,Diabetes
+23,60,0,107,Healthy
+23,54,0,91,Healthy
+27,60,0,117,Healthy
+28,74,0,123,Healthy
+27,54,0,120,Healthy
+22,70,0,106,Healthy
+25,52,0,155,Diabetes
+22,58,0,101,Healthy
+41,80,0,120,Healthy
+51,106,0,127,Healthy
+27,82,0,80,Diabetes
+54,84,0,162,Healthy
+22,76,0,199,Diabetes
+43,106,0,167,Diabetes
+40,80,0,145,Diabetes
+40,60,0,115,Diabetes
+24,80,0,112,Healthy
+70,82,0,145,Diabetes
+40,70,0,111,Diabetes
+43,58,0,98,Healthy
+45,78,0,154,Healthy
+49,68,0,165,Healthy
+21,58,0,99,Healthy
+47,106,0,68,Healthy
+22,100,0,123,Healthy
+68,82,0,91,Healthy
+31,70,0,195,Diabetes
+53,86,0,156,Diabetes
+25,60,0,93,Healthy
+25,52,0,121,Diabetes
+23,58,0,101,Healthy
+22,56,0,56,Healthy
+26,76,0,162,Diabetes
+22,64,0,95,Healthy
+27,80,0,125,Diabetes
+69,82,0,136,Healthy
+25,74,0,129,Healthy
+22,64,0,130,Healthy
+29,50,0,107,Healthy
+23,74,0,140,Healthy
+46,82,0,144,Diabetes
+34,80,0,107,Healthy
+44,114,0,158,Diabetes
+23,70,0,121,Healthy
+43,68,0,129,Diabetes
+25,60,0,90,Healthy
+43,90,0,142,Diabetes
+31,74,0,169,Diabetes
+22,0,0,99,Healthy
+28,88,0,127,Healthy
+26,70,0,118,Healthy
+26,76,0,122,Healthy
+49,78,0,125,Diabetes
+52,88,0,168,Diabetes
+41,0,0,129,Healthy
+27,76,0,110,Healthy
+28,80,0,80,Healthy
+30,0,0,115,Diabetes
+22,46,0,127,Healthy
+45,78,0,164,Diabetes
+23,64,0,93,Diabetes
+24,64,0,158,Healthy
+40,78,0,126,Healthy
+38,62,0,129,Diabetes
+21,58,0,134,Healthy
+32,74,0,102,Healthy
+34,50,0,187,Diabetes
+31,78,0,173,Diabetes
+56,72,0,94,Healthy
+24,60,0,108,Healthy
+52,76,0,97,Diabetes
+34,86,0,83,Healthy
+21,66,0,114,Healthy
+42,68,0,149,Diabetes
+42,86,0,117,Healthy
+45,94,0,111,Healthy
+38,78,0,112,Healthy
+25,78,0,116,Healthy
+22,84,0,141,Healthy
+22,88,0,175,Healthy
+22,52,0,92,Healthy
+34,78,0,130,Diabetes
+22,86,0,120,Diabetes
+24,88,0,174,Diabetes
+22,56,0,106,Healthy
+53,75,0,105,Healthy
+28,60,0,95,Healthy
+21,86,0,126,Healthy
+42,72,0,65,Healthy
+21,60,0,99,Healthy
+42,74,0,102,Diabetes
+48,80,0,120,Diabetes
+26,44,0,102,Healthy
+22,58,0,109,Healthy
+45,94,0,140,Diabetes
+39,88,0,153,Healthy
+46,84,0,100,Healthy
+27,94,0,147,Diabetes
+32,74,0,81,Healthy
+36,70,0,187,Diabetes
+50,62,0,162,Diabetes
+22,70,0,136,Diabetes
+28,78,0,121,Healthy
+25,62,0,108,Healthy
+26,88,0,181,Diabetes
+45,78,0,154,Diabetes
+37,88,0,128,Diabetes
+39,90,0,137,Healthy
+52,72,0,123,Diabetes
+26,76,0,106,Healthy
+66,92,0,190,Diabetes
+22,58,0,88,Healthy
+43,74,0,170,Diabetes
+33,62,0,89,Healthy
+63,76,0,101,Healthy
+27,70,0,122,Healthy
+30,72,0,121,Healthy
+47,60,0,126,Diabetes
+23,70,0,93,Healthy
